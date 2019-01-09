@@ -7,7 +7,7 @@ title: "Swab The Deck!"
 *[nine weeks]: March 13, 2019
 *[GTD]: Getting Things Done
 
-I need to write more. That's why this blog is here. This week I celebrated my eight year working as a remote employee. All of my years as a remote employee, I have worked in different country than the majority of my coworkers. As a result, most of my professional communication is written. I am also a programmer, so my primary non-communication output is written. So I write a lot.
+I need to write more. That's why this blog is here. This week I celebrated my eighth year working as a remote employee. All of my years as a remote employee, I have worked in different country than the majority of my coworkers. As a result, most of my professional communication is written. I am also a programmer, so my primary non-communication output is written. So I write a lot.
 
 I listen to the [Cortex podcast](https://www.relay.fm/cortex), and the hosts discussed their themes for 2019 in the [most recent episode](https://www.relay.fm/cortex/79). I have decided to adopt the practice of using yearly themes, and have chosen two: operationalization and unity.
 
