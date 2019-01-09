@@ -1,0 +1,11 @@
+title: "Obstreperous: Uninformed Opinions, Strongly Held"
+baseurl: ""
+url: "https://obstreperous.ca"
+
+author: "Mak Kolybabi"
+
+github_username: obstreperous
+twitter_username: mak_kolybabi
+
+markdown: kramdown
+permalink: pretty
