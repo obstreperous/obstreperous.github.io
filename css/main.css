@@ -422,3 +422,8 @@ p.verse {
   border: 1px solid black;
   padding: 16px;
 }
+
+article > p > img {
+  max-width: 100%;
+  height: auto;
+}
